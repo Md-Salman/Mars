@@ -22,5 +22,3 @@ change password
 add one more change password
 
 add some new features
-
-add more features
